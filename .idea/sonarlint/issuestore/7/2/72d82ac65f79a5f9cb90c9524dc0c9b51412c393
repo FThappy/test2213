@@ -1,0 +1,19 @@
+
+Š
+java:S1192"GDefine a constant instead of duplicating this literal "number" 3 times.(ëŒé…8î¯±İã1J$e6d267d0-d19e-4408-8bb6-65896dc493f9
+‹
+java:S1192"HDefine a constant instead of duplicating this literal "storeid" 3 times.(”Ş»È8î¯±İã1J$6a8c00dc-e210-47e9-b3e8-3ed9e9f421fb
+®
+java:S1488"fImmediately return this expression instead of assigning it to the temporary variable "quantityTaxDTO".(•¢õéùÿÿÿÿ8Ï¿Úã1J$afc97f6e-4140-4d97-bed0-c415d89d363d
+³
+java:S1488&"kImmediately return this expression instead of assigning it to the temporary variable "quantitySpecialTime".(©ö¨óûÿÿÿÿ8ìšÕÚã1J$803eed60-ad1d-4efe-909d-b3fd39898355
+²
+java:S14886"jImmediately return this expression instead of assigning it to the temporary variable "quantiyDefaultItem".(‡¥Äüøÿÿÿÿ8ç•µİã1J$c6614ab5-fbde-4711-b34a-05e0eb3e5dd8
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ñç¿Úã1J$d20fd6c2-56cd-40ad-8e61-9dec982c1f9a
+›
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(•¢õéùÿÿÿÿ8Ææ½Úã1J$b2dd546f-ff32-4b56-870a-c235b68e9a82
+›
+java:S1602&"SRemove useless curly braces around statement and then remove useless return keyword(©ö¨óûÿÿÿÿ8òšÕÚã1J$925b96c7-4c9e-4a17-85db-1f61668cf991
+›
+java:S16026"SRemove useless curly braces around statement and then remove useless return keyword(‡¥Äüøÿÿÿÿ8÷¯±İã1J$df0f2289-3c31-4a92-83b8-fab2b96cd290

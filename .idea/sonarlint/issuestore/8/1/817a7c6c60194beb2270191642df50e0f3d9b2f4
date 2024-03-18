@@ -1,0 +1,35 @@
+
+	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8Ø ßã1J$500a5744-a2b9-478c-a3bc-d7297f72e519
+	java:S112{"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8Ø ßã1J$abc234fa-dd8e-4629-8608-39da0fccae7d
+w
+java:S37406"/Provide the parametrized type for this generic.(ÇÙíäúÿÿÿÿ8Ø ßã1J$5444ed62-d7b9-4031-b3b3-07eca6d637d0
+w
+java:S3740^"/Provide the parametrized type for this generic.(ƒâİêıÿÿÿÿ8Ø ßã1J$9bafd236-e37d-498c-80b0-cc636924fd7f
+s
+java:S3740‚"/Provide the parametrized type for this generic.(£îÃ¾8Ø ßã1J$f42693e4-9685-43a3-9000-634b9282d1c6
+}
+java:S1141K"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ù ßã1J$43b189e4-dfaa-42c6-8dff-d57119328fc9
+}
+java:S1141t"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ù ßã1J$16dccfd8-a4c1-4a23-8d7c-c5023fa7386e
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ŞØøÿÿÿÿ8Ú ßã1J$3d101003-bed9-4080-9f3a-ad01d90bce96
+§	java:S116$"`Rename this field "DEFAULT_NUMBER_THREAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íğÓµûÿÿÿÿ8Ş ßã1J$dc70c386-a7e8-497e-95a9-4575532a5c89
+…
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ8Ş ßã1J$99f7c291-78ef-4b55-9bc6-c6c1c69668c9
+…
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ş ßã1J$60f0c14e-edc8-491e-8f8e-cf617faf3c1a
+…
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ş ßã1J$2cb76b8a-1f3f-4b63-b007-febce29edbf3
+…
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ş ßã1J$650449c7-fb93-4364-96d3-8cc7353ab4c1
+…
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ş ßã1J$842ba262-ce8e-492e-8627-814aa65ae270
+r	java:S106C"+Replace this use of System.out by a logger.(ƒ¶Ôûÿÿÿÿ8ã ßã1J$e073dea8-ef80-41ed-a6e7-fe27db30eb05
+¡
+java:S2142M"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ã ßã1J$a68c7bb9-4674-4e45-b979-5bf53c0e4f29
+r	java:S106k"+Replace this use of System.out by a logger.(ƒ¶Ôûÿÿÿÿ8å ßã1J$6becc0f5-c96d-4a62-a30d-2e3162325f0e
+¡
+java:S2142v"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8å ßã1J$8bc1cc4b-0912-4adf-8ad7-76d7f993404a
+o
+java:S1481†"+Remove this unused "params" local variable.(Ğƒò¥8³íü‚å1J$14b3e5b0-0cf0-463f-906f-673644673273
+¢
+java:S2142’"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8æ ßã1J$ab595bc9-dc80-4291-989f-d8f3cf3efb83

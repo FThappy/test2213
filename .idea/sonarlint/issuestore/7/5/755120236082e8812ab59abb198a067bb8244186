@@ -1,0 +1,41 @@
+
+	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ŞÏºİã1J$b62651b2-ce1a-44e4-b8a6-ccb2d0157df9
+	java:S112~"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ŞÏºİã1J$474b5c41-7885-4889-a691-9b4f88c26989
+	java:S112¨"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ŞÏºİã1J$a4e1624a-b9ad-41bc-b999-3789b6f066f9
+r
+java:S37405"/Provide the parametrized type for this generic.(ÕÄ­8ßÏºİã1J$13d0a1bb-d141-4544-8932-27d85b68e70d
+w
+java:S3740a"/Provide the parametrized type for this generic.(È¶‹çşÿÿÿÿ8ßÏºİã1J$e1c99537-c3b4-42e5-9358-b419dbbf1822
+x
+java:S3740‹"/Provide the parametrized type for this generic.(¿Ç²úÿÿÿÿ8ßÏºİã1J$d073e075-0ded-4d1c-af7c-c9d7624d0d5f
+•
+java:S11921"MDefine a constant instead of duplicating this literal "thÃ nh cÃ´ng" 6 times.(Ôğ´ıÿÿÿÿ8àÏºİã1J$14acf63d-3adf-45dd-bbc2-0ca8d4cec6f4
+¤
+java:S1192B"\Define a constant instead of duplicating this literal "Empty result for store id: " 3 times.(â˜Êüÿÿÿÿ8àÏºİã1J$90aa58fb-7370-4d4e-bb84-04b3ed4f0df7
+}
+java:S1141J"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8áÏºİã1J$6ec31b19-3602-409f-b3be-458c6d028da0
+}
+java:S1141v"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8áÏºİã1J$ec8ed663-5da4-4991-9970-38b7da5e54e7
+~
+java:S1141 "5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8áÏºİã1J$550ad11f-018c-413e-9d33-953d2915435a
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å„[8âÏºİã1J$332fa007-04b0-4146-8a33-4e63145cd675
+§	java:S116%"`Rename this field "DEFAULT_NUMBER_THREAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íğÓµûÿÿÿÿ8åÏºİã1J$12140845-8539-4bdf-ae58-b1cbe4b7d299
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8æÏºİã1J$72818d9f-8519-445f-b01a-f9c653ef4bac
+…
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8æÏºİã1J$51293111-e73a-4ea9-9053-41bf9ce6b439
+…
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ8æÏºİã1J$a3527b6f-cae0-4334-8dd7-9789c1c1e4c4
+…
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄŞ8æÏºİã1J$28de10ba-98a9-4113-8e82-43864939affa
+…
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞ8æÏºİã1J$fdc65747-7191-479a-91b5-d9aba2aa3476
+r	java:S106B"+Replace this use of System.out by a logger.(â˜Êüÿÿÿÿ8êÏºİã1J$5ac1a0b8-cc75-477d-afb2-7a6813838fbf
+¡
+java:S2142L"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ëÏºİã1J$36fb3b0f-45d3-4391-a627-919c687751ee
+r	java:S106n"+Replace this use of System.out by a logger.(â˜Êüÿÿÿÿ8íÏºİã1J$e2b8fbe8-efba-4fdf-ae84-71cb74b91fd9
+¡
+java:S2142x"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8íÏºİã1J$c33bb3ad-138a-4f76-baaa-990e4c34cc60
+s	java:S106˜"+Replace this use of System.out by a logger.(â˜Êüÿÿÿÿ8îÏºİã1J$90d11c77-6700-4fe2-9111-7d3be226221f
+¢
+java:S2142¢"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8îÏºİã1J$2d641b5e-0bca-4cc8-b483-6091e1731926

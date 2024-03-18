@@ -1,0 +1,23 @@
+
+•
+java:S2095Q"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Šñ¤„ùÿÿÿÿ8¡Œû†å1J$9836656d-a48e-468c-b40e-0998d5fd72cc
+‰
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ïÍ¨Îûÿÿÿÿ8£Œû†å1J$ceb4fac0-aa6d-4d57-9db9-e0824eb697e8
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€«ï¸ÿÿÿÿÿ8Ú¨…‡å1J$25e610d0-5e62-4f5b-bf9f-d8a3cc1caf71
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ü§û8Áä‚‡å1J$52a86eb3-92d0-4bb2-814f-b645ad3459c8
+o
+java:S30115",This accessibility update should be removed.(˜ÂÓ˜8¦Œû†å1J$386b8678-8ac1-4047-994f-78b764fbb6b3
+m	java:S106<"+Replace this use of System.out by a logger.(íŒ³Ÿ8§Œû†å1J$c64a812a-e043-4d20-832d-38af426fb05c
+‰
+java:S6201E"FReplace this instanceof check and cast with 'instanceof String string'(Î€€î8¨Œû†å1J$e08ecb7c-3209-46fe-99dc-09e957193e32
+q
+java:S1905F")Remove this unnecessary cast to "String".(Ÿşó¾üÿÿÿÿ8©Œû†å1J$630ce567-2b1a-4c5b-baae-bf831dee0fb5
+n
+java:S1075N"&Remove this hard-coded path-delimiter.(Õ°ƒÆûÿÿÿÿ8©Œû†å1J$6dfa870b-b623-4779-965d-dccebacd8732
+ƒ	java:S125`"<This block of commented-out lines of code should be removed.(ÜÈĞúÿÿÿÿ8«Œû†å1J$d48e9292-2af1-40d7-9c19-913eeba30a3c
+…
+java:S1128"=Remove this unused import 'app.DTO.response.DataTimeKeepDTO'.(«ƒºßıÿÿÿÿ8—¿‡å1J$ff1e9b94-c714-48cd-9229-66e7ecdfd593
+
+java:S1128"GRemove this unused import 'org.apache.poi.xssf.usermodel.XSSFWorkbook'.(Œ¦ƒëşÿÿÿÿ8—¿‡å1J$55487536-4258-4a9e-b9c2-e90e7dc5062b
+’
+java:S1128	"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8—¿‡å1J$50430fa5-31e5-414a-8f53-95db8ea5f10a

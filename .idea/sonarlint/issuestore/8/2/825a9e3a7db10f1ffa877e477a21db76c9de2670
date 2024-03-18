@@ -1,0 +1,42 @@
+
+	java:S112•"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8¦Ü›Şã1J$144ce592-cab7-46f3-9de2-51a21f7c736c
+¡
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒñ•Àùÿÿÿÿ8§Ü›Şã1J$095930bd-39ff-464f-804e-416071fc2833
+¡
+java:S2293W"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãô¶Şşÿÿÿÿ8§Ü›Şã1J$061e7d18-ac61-4e31-ae5c-6daece22bf47
+¡
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëŠŸœúÿÿÿÿ8§Ü›Şã1J$be0895ff-559b-4a72-b562-bef398b054f8
+
+java:S1192G"\Define a constant instead of duplicating this literal "Empty result for store id: " 3 times.(À¬±~8¨Ü›Şã1J$6b0a2bb3-a335-4b73-a325-b3a727bd58fc
+’
+java:S1192T"JDefine a constant instead of duplicating this literal "Completed" 3 times.(¹¸’Ëüÿÿÿÿ8¨Ü›Şã1J$795665cf-1056-430a-9b09-394931569490
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ãÓˆùÿÿÿÿ8ªÜ›Şã1J$0253c64e-6ee1-4472-a06f-bdbc22ca669b
+§	java:S116)"`Rename this field "DEFAULT_NUMBER_THREAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íğÓµûÿÿÿÿ8¬Ü›Şã1J$73d425fa-65b5-4cef-b439-1acbe0e86dbd
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8­Ü›Şã1J$c6261e1f-bfa5-46da-aedb-86d95d385641
+…
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ8­Ü›Şã1J$5dc9196a-ff2c-4e47-92c0-d9c206645216
+…
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ8­Ü›Şã1J$daeb3c89-537a-4a72-af3a-14de44464fe1
+…
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞ8­Ü›Şã1J$7fad3673-51e2-4f8f-bc38-ddd2661f36db
+…
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄŞ8­Ü›Şã1J$22260177-e17b-49fd-ad17-a9072bb719a2
+…
+java:S6813."BRemove this field injection and use constructor injection instead.(êæÄŞ8­Ü›Şã1J$81cfa1b2-25d2-49d4-b8c1-64c544ce54cf
+•
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(¸Ü”¢8¯Ü›Şã1J$882888fc-0e66-4731-9b2f-fef11b5ca862
+m	java:S106;"+Replace this use of System.out by a logger.(ÊËïò8±Ü›Şã1J$5376c17d-286c-44ac-9fbd-673691ce1bb8
+l	java:S106G"+Replace this use of System.out by a logger.(À¬±~8²Ü›Şã1J$657a6a07-facb-4b4b-940b-1e705ad7c99c
+¡
+java:S2142Q"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8²Ü›Şã1J$01319a15-2970-4a52-b6df-4088134df70e
+r	java:S106T"+Replace this use of System.out by a logger.(¹¸’Ëüÿÿÿÿ8²Ü›Şã1J$1cd7d063-6ebb-46e9-9992-d46c8b8c7d95
+l	java:S106d"+Replace this use of System.out by a logger.(À¬±~8´Ü›Şã1J$07a4bc8d-82c3-498e-b709-1ccd3c344578
+¡
+java:S2142n"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8´Ü›Şã1J$9880ecef-a304-4bd1-a6b3-8efdfcbf2ab6
+r	java:S106q"+Replace this use of System.out by a logger.(¹¸’Ëüÿÿÿÿ8´Ü›Şã1J$0f30611c-43a5-4595-825f-32ee9955939a
+m	java:S106u"+Replace this use of System.out by a logger.(ÊËïò8´Ü›Şã1J$05afbcc9-bcfb-4738-a82a-b77c38fc34c6
+m	java:S106"+Replace this use of System.out by a logger.(À¬±~8µÜ›Şã1J$d8eb1d7a-bcc6-4a39-a96f-b6e95f886949
+¢
+java:S2142‹"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8µÜ›Şã1J$a83d87fb-13b1-4c3d-8d15-c14818842aee
+s	java:S106"+Replace this use of System.out by a logger.(¹¸’Ëüÿÿÿÿ8µÜ›Şã1J$3b3219fa-3972-4dd0-83bf-a7c883db3cf9

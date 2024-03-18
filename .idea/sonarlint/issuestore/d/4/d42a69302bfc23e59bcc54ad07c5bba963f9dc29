@@ -1,0 +1,104 @@
+
+	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8¶ºÿ‡å1J$ef1846fc-c98b-4396-ab69-d00ba8830727
+	java:S112c"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8·ºÿ‡å1J$e7d555fe-0a70-44cd-a785-2ec081c21b9e
+	java:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8·ºÿ‡å1J$3e4dc412-d1b5-486b-9eef-f353e695d166
+	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8·ºÿ‡å1J$0c4baf69-fcb4-4316-9cce-95040372347d
+	java:S112ï"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8·ºÿ‡å1J$24cba7bd-3b39-4a65-8753-6efd0f7a8ea4
+	java:S112¢"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8·ºÿ‡å1J$8c9947a1-00d9-4885-afb4-2781bb7b19ee
+	java:S112Õ"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8·ºÿ‡å1J$8ff1aae9-5f8e-4ec7-ad59-a60aabfa0ccc
+	java:S112›"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8·ºÿ‡å1J$7f6f6807-c772-49d4-b4e6-3a39e307ba90
+	java:S112½"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8·ºÿ‡å1J$9c63e99b-aca7-4762-8515-f468aad006af
+	java:S112Æ"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8·ºÿ‡å1J$ac8f211a-27c9-48b9-a051-215f3eea9da1
+	java:S112Ï"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8·ºÿ‡å1J$5305db84-c50b-4d89-b5f7-5ca438113373
+w
+java:S3740o"/Provide the parametrized type for this generic.(Ö…‹“ıÿÿÿÿ8·ºÿ‡å1J$b0b47cbf-0eb7-4dd8-95ce-fad8ce56ea6b
+s
+java:S3740"/Provide the parametrized type for this generic.(¦íí•8·ºÿ‡å1J$636f0938-5880-4978-a56e-3a7f85bc351e
+s
+java:S3740Ê"/Provide the parametrized type for this generic.(¸ÁÏ£8·ºÿ‡å1J$ce840dc8-e7d1-458a-b3b5-7dfda2697a14
+s
+java:S3740ü"/Provide the parametrized type for this generic.(¸ÁÏ£8·ºÿ‡å1J$befd2e87-a84f-4543-a418-4e4cc6fca225
+s
+java:S3740¯"/Provide the parametrized type for this generic.(¸ÁÏ£8·ºÿ‡å1J$b5f45931-1465-486b-beaa-578055638493
+¢
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä‡ÁÖúÿÿÿÿ8¸ºÿ‡å1J$3efee4b7-6f8d-4b65-981c-bc9fc689872e
+¢
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(è½ëÅøÿÿÿÿ8¸ºÿ‡å1J$50624652-0808-4412-bb1e-26943d95ba26
+œ
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(À•ô#8¸ºÿ‡å1J$c0266b24-3818-4887-8d71-35c7586a55b8
+
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô½†Â8¹ºÿ‡å1J$6f80c77d-2984-4b4e-b225-ffae7c12aedb
+–
+java:S1192Æ"MDefine a constant instead of duplicating this literal "thÃ nh cÃ´ng" 8 times.(Ôğ´ıÿÿÿÿ8ººÿ‡å1J$f9b74d48-4c38-48f6-b87e-8cc0a95d6db6
+¥
+java:S1192ƒ"\Define a constant instead of duplicating this literal "Empty result for store id: " 7 times.(â˜Êüÿÿÿÿ8ººÿ‡å1J$db366d57-0eae-49ab-8bf6-50f987ca1cbc
+}
+java:S1141\"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8»ºÿ‡å1J$121a0dff-df0a-46de-b72b-17284dd80651
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒıÔ¥øÿÿÿÿ8¾ºÿ‡å1J$cfbce15b-c623-4e75-b0e2-594fb18d95eb
+§	java:S1165"`Rename this field "DEFAULT_NUMBER_THREAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íğÓµûÿÿÿÿ8Ğºÿ‡å1J$68d0d57d-535d-4b3e-9745-0b0793fc991e
+…
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ñºÿ‡å1J$0f191034-570e-48fe-88ec-a6e2ebd938cf
+…
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ8Òºÿ‡å1J$e0850156-3621-4c66-9e31-e60efd6eab92
+…
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞ8Òºÿ‡å1J$4e455848-f507-4d15-8eb9-9b4929f3fa76
+…
+java:S6813."BRemove this field injection and use constructor injection instead.(êæÄŞ8Òºÿ‡å1J$4809233b-a034-4931-b852-08d90497c341
+…
+java:S68131"BRemove this field injection and use constructor injection instead.(êæÄŞ8Òºÿ‡å1J$5f751f7f-13d6-42e8-ba54-8149356382be
+…
+java:S68136"BRemove this field injection and use constructor injection instead.(êæÄŞ8Òºÿ‡å1J$5101b95c-78ac-46de-99d2-6bd5b0807865
+…
+java:S68138"BRemove this field injection and use constructor injection instead.(êæÄŞ8Òºÿ‡å1J$7f6d4dbc-9795-42a3-bee5-739c09e6ce6e
+…
+java:S6813:"BRemove this field injection and use constructor injection instead.(êæÄŞ8Òºÿ‡å1J$8c3b678d-b0d1-4004-a2ff-acffd1690d98
+m	java:S106F"+Replace this use of System.out by a logger.(§¼úí8Õºÿ‡å1J$e4591c6a-e243-41f5-80cd-dfe0c181af08
+°
+java:S6203K"hMove this text block out of the lambda body and refactor it to a local variable or a static final field.(‹Åİ—ùÿÿÿÿ8×ºÿ‡å1J$4db3c784-6c5b-4c67-94ea-393be863c9fe
+¡
+java:S2142^"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Øºÿ‡å1J$414b2787-6acd-4d74-92b3-a73ea29a16ab
+•
+java:S3776j"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(äöÁé8Úºÿ‡å1J$fbfb2c2c-e514-4e90-bf9b-1b48225b6aa4
+s	java:S106ƒ"+Replace this use of System.out by a logger.(â˜Êüÿÿÿÿ8Ûºÿ‡å1J$92d90f18-63d0-4436-89b2-9d7f78a58288
+±
+java:S6203£"hMove this text block out of the lambda body and refactor it to a local variable or a static final field.(¯ãëøÿÿÿÿ8Üºÿ‡å1J$c15d28dd-7713-4a09-b229-0cba6b2fdf70
+o
+java:S1481¬"+Remove this unused "number" local variable.(¯–š8İºÿ‡å1J$c4cc6fc9-9a61-445c-a0e3-59b6727fc851
+s	java:S106¯"+Replace this use of System.out by a logger.(â˜Êüÿÿÿÿ8İºÿ‡å1J$468e7c91-230c-4e78-9b8a-aab379baa1f1
+«
+java:S6203Î"hMove this text block out of the lambda body and refactor it to a local variable or a static final field.(–·Ä8Şºÿ‡å1J$d5162dd1-3ad2-4a9f-84e0-b9894b97dec4
+s	java:S106à"+Replace this use of System.out by a logger.(â˜Êüÿÿÿÿ8Şºÿ‡å1J$3c3619cc-c3d1-4b98-acb2-3bb02716a437
+«
+java:S6203"hMove this text block out of the lambda body and refactor it to a local variable or a static final field.(–·Ä8ßºÿ‡å1J$1123b464-63a3-4103-96ba-dd3b7fb978cd
+s	java:S106€"+Replace this use of System.out by a logger.(ıšÓÿÿÿÿÿ8ßºÿ‡å1J$ba03097d-c288-4d9a-80d4-2d11707017b6
+s	java:S106“"+Replace this use of System.out by a logger.(â˜Êüÿÿÿÿ8ßºÿ‡å1J$3132b454-b3ea-493b-bc1f-b0242ecbc855
+«
+java:S6203´"hMove this text block out of the lambda body and refactor it to a local variable or a static final field.(–·Ä8àºÿ‡å1J$c6774a92-f980-4ee4-9e6e-7d63be0c79d4
+s	java:S106³"+Replace this use of System.out by a logger.(ıšÓÿÿÿÿÿ8àºÿ‡å1J$bc8c8ae5-1c06-4b2f-9408-89ae3ff7213e
+s	java:S106Æ"+Replace this use of System.out by a logger.(â˜Êüÿÿÿÿ8àºÿ‡å1J$8b23a685-e505-46d0-b7e3-152a3e76419b
+›
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ş¥¢ùÿÿÿÿ8áºÿ‡å1J$39f99a10-1079-47d8-9b56-8580d991d675
+{
+java:S1854–"7Remove this useless assignment to local variable "row".(éÛ8âºÿ‡å1J$88149bce-d1e2-47ef-9e32-8447ccca17b0
+m	java:S106ä"+Replace this use of System.out by a logger.(Ô¶*8ãºÿ‡å1J$a66eac98-a20c-4a7f-a264-128fce745e79
+«
+java:S6203é"hMove this text block out of the lambda body and refactor it to a local variable or a static final field.(–·Ä8ãºÿ‡å1J$690dd8e0-286b-46fd-b5a1-781cfe151f63
+s	java:S106ù"+Replace this use of System.out by a logger.(â˜Êüÿÿÿÿ8ãºÿ‡å1J$2c10427c-9c74-4a47-8408-248515fdb2e5
+n	java:S106“"+Replace this use of System.out by a logger.(ÏåœÑ8åºÿ‡å1J$3b505bf8-d5d7-425e-8d36-de6cec26f4f5
+l
+java:S1481–"(Remove this unused "row" local variable.(éÛ8åºÿ‡å1J$dcc8a4cb-b7b8-4ad4-9a51-b3c005764b24
+€
+java:S1854Ö"7Remove this useless assignment to local variable "row".(İşÂøÿÿÿÿ8åºÿ‡å1J$c619515e-62b8-46d8-b21d-53646bc34185
+q
+java:S1481Ö"(Remove this unused "row" local variable.(İşÂøÿÿÿÿ8èºÿ‡å1J$613395b1-a57d-4ec1-9584-332695816412
+€
+java:S1854"7Remove this useless assignment to local variable "row".(½úûïùÿÿÿÿ8èºÿ‡å1J$b91ad674-e7ee-4db6-a6d0-a3f0496a15b1
+«
+java:S6203î"hMove this text block out of the lambda body and refactor it to a local variable or a static final field.(–·Ä8éºÿ‡å1J$adbfe4f3-f1e9-44ec-b8db-240dd1247fc1
+s	java:S106ş"+Replace this use of System.out by a logger.(ƒ¶Ôûÿÿÿÿ8éºÿ‡å1J$716c8cc9-d5af-44a0-8adb-5dfddf1071a3
+q
+java:S1481"(Remove this unused "row" local variable.(½úûïùÿÿÿÿ8êºÿ‡å1J$e3981781-62ab-4579-b628-ec7068298e34
+€
+java:S1854§"7Remove this useless assignment to local variable "row".(÷¾¤–şÿÿÿÿ8ëºÿ‡å1J$687229cc-78ec-45b8-b7aa-4721e47d7dae
+q
+java:S1481§"(Remove this unused "row" local variable.(÷¾¤–şÿÿÿÿ8ëºÿ‡å1J$98aec1d3-d684-4589-82fd-7d123a229928

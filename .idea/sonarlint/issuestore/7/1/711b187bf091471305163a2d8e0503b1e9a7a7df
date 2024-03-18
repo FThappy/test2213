@@ -1,0 +1,11 @@
+
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÛşÕã1J$b06e8f6f-b4e9-4753-80be-52ea12745a95
+›
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8É®åØã1J$7d39567a-daa6-47d4-8dd0-8b6aac9a3d91
+›
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ıÿÿÿÿ8É®åØã1J$f374d5eb-52cb-4739-9bb4-3cd56dfc4d45
+˜
+java:S1128"PRemove this unused import 'org.springframework.jdbc.core.BeanPropertyRowMapper'.(ß©Å´ÿÿÿÿÿ8É®åØã1J$ee6eb1c2-45ed-492f-8d09-d4d4581e375d
+
+java:S1128"GRemove this unused import 'org.springframework.jdbc.core.JdbcTemplate'.(å ê‹ÿÿÿÿÿ8É®åØã1J$a10c0a6c-8d27-4602-a5df-4cfc9978bb7a

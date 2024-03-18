@@ -1,0 +1,79 @@
+
+Ó
+java:S11921"Define a constant instead of duplicating this literal "         left join fnb_stores.store_addresses sa on s.server_id = sa.store_id " 3 times.(ñê³‰8®—Àƒå1J$a6bd13fe-20f9-435e-aa58-c69ba007ad30
+‹
+java:S1192r"HDefine a constant instead of duplicating this literal "storeid" 3 times.(ˆÔº8¯—Àƒå1J$c84dc441-fa08-40c7-9a10-2bff49e78490
+—
+java:S1192#"ODefine a constant instead of duplicating this literal "storePackageId" 3 times.(åÒÌ§ûÿÿÿÿ8¯—Àƒå1J$dc18ff69-07ed-43b8-88d0-be82dadf8bff
+¬
+java:S1192,"dDefine a constant instead of duplicating this literal "       s.name             as name, " 3 times.(ÕÈˆµøÿÿÿÿ8¯—Àƒå1J$62d98e99-3a21-4283-b235-3dc8deb5484e
+°
+java:S1192/"mDefine a constant instead of duplicating this literal "       s.store_package_id as storePackageId " 3 times.(ˆ„º’8¯—Àƒå1J$b7c04d19-ff28-4b22-a843-2afd11e9a890
+
+java:S1192!"HDefine a constant instead of duplicating this literal "address" 5 times.(°‹ó²øÿÿÿÿ8¯—Àƒå1J$73d0ff2b-0794-4ecf-8ffa-2c48fe903205
+­
+java:S1192."eDefine a constant instead of duplicating this literal "       s.phone            as phone, " 3 times.(¾‹×õıÿÿÿÿ8¯—Àƒå1J$47e14858-0177-4d7d-b849-b9aaef86281f
+ª
+java:S1192-"gDefine a constant instead of duplicating this literal "       sa.address         as address, " 3 times.(ğà©Ò8¯—Àƒå1J$3234b35a-b6c0-491b-9c36-d277871a33fb
+
+java:S1192x"FDefine a constant instead of duplicating this literal "phone" 4 times.(¢ÉÚ­ùÿÿÿÿ8¯—Àƒå1J$58beec95-c6ca-4647-8dba-a8275e65e4a4
+©
+java:S1488"fImmediately return this expression instead of assigning it to the temporary variable "listStoreQuery".(Ö‘ÍË8°—Àƒå1J$ccbb89b0-1836-439d-8467-871fd3f41770
+®
+java:S14884"fImmediately return this expression instead of assigning it to the temporary variable "listTaxStoreId".(ÂëÖöùÿÿÿÿ8°—Àƒå1J$8db6f5e3-9b85-4523-bf82-4b08dcc0f9a1
+«
+java:S1488D"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(·Úüÿÿÿÿ8°—Àƒå1J$3a491fa7-e8bb-4949-867a-df8b36d71acd
+«
+java:S1488S"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(·Úüÿÿÿÿ8°—Àƒå1J$78e4d70d-e9f7-44d9-9fe0-23459a01fe53
+«
+java:S1488d"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(·Úüÿÿÿÿ8°—Àƒå1J$153ed78b-d814-4695-be43-dc118e798cdb
+°
+java:S1488q"hImmediately return this expression instead of assigning it to the temporary variable "storeAccumulates".(¨“¯Àıÿÿÿÿ8°—Àƒå1J$085683d7-fc96-4285-b64d-aad68f037907
+ª
+java:S1488€"fImmediately return this expression instead of assigning it to the temporary variable "listTaxStoreId".(ÚÒªİ8°—Àƒå1J$f6ca7a9a-d011-486a-b8dc-f4918dde86e6
+¬
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(Ùô½Óÿÿÿÿÿ8°—Àƒå1J$de108acc-e0d0-4dd1-9fed-96c793353e3b
+¬
+java:S1488”"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(Ùô½Óÿÿÿÿÿ8°—Àƒå1J$d792b89f-f22f-45fb-baa3-8939eafd5dfc
+¬
+java:S1488š"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(Ùô½Óÿÿÿÿÿ8°—Àƒå1J$0d152fd5-96c0-4ffe-9322-225eed39015d
+¬
+java:S1488¥"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(Ùô½Óÿÿÿÿÿ8°—Àƒå1J$af47e43d-018d-4efc-bba2-0f0f5c0dee1a
+¬
+java:S1488°"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(Ùô½Óÿÿÿÿÿ8°—Àƒå1J$ccb7dfab-da3a-43b3-ba83-68f6b3808f63
+¦
+java:S1488·"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(Æ‡…/8°—Àƒå1J$fdbe91ad-7a2f-43b0-bcb8-cb032f0d2f1d
+¦
+java:S1488¾"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(Æ‡…/8°—Àƒå1J$537c1748-493f-45ce-896d-8b17238a3b48
+¦
+java:S1488Å"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(Æ‡…/8°—Àƒå1J$f602d562-f5bb-416d-a3bc-c666fe2b677f
+¬
+java:S1488Ò"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(ÙÛ×»ÿÿÿÿÿ8°—Àƒå1J$76ca2aa2-4e94-4e26-8a44-7ab8711aed94
+¬
+java:S1488Ş"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(Ùô½Óÿÿÿÿÿ8°—Àƒå1J$6a3d98b4-7b56-400f-9b8f-8722f77934a2
+§
+java:S1488ä"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(³†ø¹8±—Àƒå1J$68784b1c-aee1-4ac2-8f2a-9ab45dcd414d
+¹
+java:S1488ÿ"pImmediately return this expression instead of assigning it to the temporary variable "listStoreConnectWebOrder".(àÍŠäıÿÿÿÿ8±—Àƒå1J$e339156b-a295-44b2-913e-f56cc9d854f7
+§
+java:S1488—"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(÷ùÜ¼8±—Àƒå1J$43edfba3-34f4-4ec5-a434-25d5e331ba88
+¬
+java:S1488ª"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(Çó°­úÿÿÿÿ8±—Àƒå1J$b0577f01-a98d-4f7c-abde-6db65579832f
+¬
+java:S1488·"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(Çó°­úÿÿÿÿ8±—Àƒå1J$8427df9c-c2ca-4a53-a47c-26448061a37f
+§
+java:S1488»"cImmediately return this expression instead of assigning it to the temporary variable "listStoreId".(³†ø¹8¥°Õƒå1J$ece2b790-50f4-472a-ad89-e04658879cba
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8½—Àƒå1J$349e700a-fcd7-4794-9180-3c20ee9a3abd
+–
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Ö‘ÍË8À—Àƒå1J$90f7f614-cc83-4d24-b70b-ccddc20ff235
+›
+java:S1602q"SRemove useless curly braces around statement and then remove useless return keyword(¨“¯Àıÿÿÿÿ8Ã—Àƒå1J$f2597328-d337-4c03-8426-e7901750de23
+—
+java:S1602€"SRemove useless curly braces around statement and then remove useless return keyword(ÚÒªİ8Ä—Àƒå1J$057b6936-c4ba-4eab-b756-4b79b1ee7ff6
+œ
+java:S1602€"SRemove useless curly braces around statement and then remove useless return keyword(ÉØ®ùÿÿÿÿ8È—Àƒå1J$ccd924e1-4e2c-4416-973a-0a3a5d2f4852
+—
+java:S1602—"SRemove useless curly braces around statement and then remove useless return keyword(÷ùÜ¼8É—Àƒå1J$41af8c8e-8718-4060-be98-fa051e4790b7
+v
+java:S1172º"-Remove this unused method parameter "params".(æíèÁûÿÿÿÿ8Ë—Àƒå1J$4c88423a-2886-43e7-a754-52ef91dd79a7

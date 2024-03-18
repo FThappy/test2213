@@ -1,0 +1,33 @@
+
+Š
+java:S1192"GDefine a constant instead of duplicating this literal "number" 6 times.(ëŒé…8Ó“”Úã1J$59660e71-d662-47ef-8b4c-7416fa5f4b0f
+
+java:S1192"HDefine a constant instead of duplicating this literal "storeid" 6 times.(îÄãİùÿÿÿÿ8Ô“”Úã1J$84941b80-993b-4790-beef-03556dbb4154
+·
+java:S1488"oImmediately return this expression instead of assigning it to the temporary variable "quantitySuccessTimeKeep".(¤ûÖ±ıÿÿÿÿ8Ğ¤Úã1J$c919ff52-0c71-410f-9ff5-8dc6e3cc822d
+¯
+java:S1488+"mImmediately return this expression instead of assigning it to the temporary variable "quantityNotDetermined".( Û
+8êú‹Úã1J$8afd303b-6e36-4c2a-a229-8321f5856012
+«
+java:S1488;"hImmediately return this expression instead of assigning it to the temporary variable "quantityOutRange".(â°Ù°8ù½”Úã1J$407af6fd-695f-458a-9117-54949fbd1493
+­
+java:S1488J"eImmediately return this expression instead of assigning it to the temporary variable "quantityCases".(ÜƒâØûÿÿÿÿ8îÏ˜Úã1J$2b45ffa8-f9cb-411b-8911-1376aa121209
+³
+java:S1488]"kImmediately return this expression instead of assigning it to the temporary variable "quantityMaxEmployee".(ÊÓ…üÿÿÿÿ8îÙœÚã1J$3a417df1-10c6-4412-a7e2-47eee45d3559
+³
+java:S1488p"kImmediately return this expression instead of assigning it to the temporary variable "quantityMinEmployee".(¿¨©Àúÿÿÿÿ8­ò¡Úã1J$9ab45dab-d2ab-4aa0-87f5-b69d57465449
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¤½øÙã1J$c9eecbfc-d9a0-459b-8f77-2dceb1a7e17b
+›
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¤ûÖ±ıÿÿÿÿ8Ö¤Úã1J$1ec5f46a-f0e7-4b69-bce4-5e9122421880
+•
+java:S1602+"SRemove useless curly braces around statement and then remove useless return keyword( Û
+8ğú‹Úã1J$558e37de-9652-421d-99d9-e0edf69504a8
+–
+java:S1602;"SRemove useless curly braces around statement and then remove useless return keyword(â°Ù°8Ü“”Úã1J$89fd1b6f-5379-416a-8aa8-8ff3fcb1b197
+›
+java:S1602J"SRemove useless curly braces around statement and then remove useless return keyword(ÜƒâØûÿÿÿÿ8 £˜Úã1J$9f9a5c9f-b758-4ae0-b718-7758f5a80602
+›
+java:S1602]"SRemove useless curly braces around statement and then remove useless return keyword(ÊÓ…üÿÿÿÿ8˜›œÚã1J$60c5b31e-d5d1-4077-827e-ac12ceab260c
+›
+java:S1602p"SRemove useless curly braces around statement and then remove useless return keyword(¿¨©Àúÿÿÿÿ8áÏ¡Úã1J$b90d4b9f-ef68-4990-ab7d-632900992382

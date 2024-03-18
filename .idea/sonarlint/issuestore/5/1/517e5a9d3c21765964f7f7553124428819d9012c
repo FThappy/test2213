@@ -1,0 +1,67 @@
+
+	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ÿùÅ‡å1J$2d039ec0-c783-485a-b5fc-ff963ce603fa
+	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ÿùÅ‡å1J$39e4850a-9372-4136-8177-cf5e4107fe38
+	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ÿùÅ‡å1J$c31a9f54-ddfc-477e-9c58-5279c2b48594
+	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ÿùÅ‡å1J$26865e0b-a7ab-47e7-ad3b-6c0583dab7c0
+	java:S112u"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8€úÅ‡å1J$2d9b929d-ceb6-4d80-9825-45259d6d5c0c
+	java:S112~"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8€úÅ‡å1J$5b55518c-ac4b-46e4-aec0-990e32241585
+	java:S112‡"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8€úÅ‡å1J$6939c671-2b13-42a1-b825-a1dfc23380ae
+	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8€úÅ‡å1J$40067f25-6553-4243-b372-f61281c11770
+	java:S112³"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8€úÅ‡å1J$532749c3-119d-488f-8ebb-fe3d615463e7
+	java:S112»"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8€úÅ‡å1J$a34a679a-9f7f-4b4d-976f-64ba2cfd5363
+	java:S112Ä"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8€úÅ‡å1J$14a1df9c-dfb8-4130-96d7-a9d625835129
+	java:S112Ì"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8€úÅ‡å1J$189b0d88-18d9-4f88-88ca-f1a91886f247
+›
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(»²ƒB8úÅ‡å1J$d4f13bc9-0eac-4177-9472-a19098358cc6
+œ
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù¨Œå8úÅ‡å1J$5d3928a3-2bee-4c2c-8e67-437c8d05a6ee
+¡
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô»ó²úÿÿÿÿ8úÅ‡å1J$9bb050c2-d80f-47eb-a181-c7e0402c62f6
+œ
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿æ×š8úÅ‡å1J$12a0837e-eeea-406f-a31d-42a9ea90c589
+¡
+java:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å¯¾×ùÿÿÿÿ8úÅ‡å1J$77679e2c-869e-4292-b429-e665d6bb693b
+œ
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù¨Œå8úÅ‡å1J$5621d7da-7b0f-4abd-b258-1f094a3941b8
+¡
+java:S2293k"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô»ó²úÿÿÿÿ8úÅ‡å1J$b2806766-1571-419e-ae3f-94ed736e0fc6
+œ
+java:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿æ×š8úÅ‡å1J$f26019c6-48da-4489-bbb8-e794ea4a0700
+¢
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘¯—Åúÿÿÿÿ8úÅ‡å1J$22a60e08-89e3-4790-ba92-6953d361cb8c
+
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù¨Œå8úÅ‡å1J$979eb940-95f9-4c32-8542-e1c7f0dc7190
+¢
+java:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô»ó²úÿÿÿÿ8úÅ‡å1J$c95827b0-10a1-4775-8543-39a8cfc23674
+
+java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿æ×š8úÅ‡å1J$34315d74-e8e4-47a5-baa5-b0904faced4d
+•
+java:S1192."MDefine a constant instead of duplicating this literal "thÃ nh cÃ´ng" 6 times.(Ôğ´ıÿÿÿÿ8‚úÅ‡å1J$9aa3a7a3-0e5f-4473-93e6-f04d5599769d
+‰
+java:S1192p"FDefine a constant instead of duplicating this literal "Start" 3 times.(ÊËïò8‚úÅ‡å1J$e9fb18f4-8044-4a7a-a3d0-74714979c727
+’
+java:S1192w"JDefine a constant instead of duplicating this literal "Completed" 3 times.(¹¸’Ëüÿÿÿÿ8‚úÅ‡å1J$62f3b823-0b91-4cde-848d-8e00b54082e9
+’	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»²ƒB8ƒúÅ‡å1J$e2f7aa8a-6392-40b8-bd16-9d2ee232d65b
+“	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çØ¹–8ƒúÅ‡å1J$6567e6dc-0f99-468c-a615-13c5adc12b37
+˜	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¯¾×ùÿÿÿÿ8ƒúÅ‡å1J$09eb906a-39a9-4707-870f-6737a950c78a
+˜	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı²¹†şÿÿÿÿ8ƒúÅ‡å1J$09209f22-9e9e-4a1c-9919-e09e3e592625
+™	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¯—Åúÿÿÿÿ8ƒúÅ‡å1J$33a7291c-1810-4d72-b76c-5019e8e5888d
+™	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã÷ÅÈÿÿÿÿÿ8ƒúÅ‡å1J$ffa43dd9-14b2-4743-b373-ffbecff9d3c4
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø±ë†8…úÅ‡å1J$c3fa50d2-1bbd-4547-b7f1-3764c82f657a
+§	java:S116 "`Rename this field "DEFAULT_NUMBER_THREAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íğÓµûÿÿÿÿ8úÅ‡å1J$73ccd9c2-b4aa-4369-b2b6-48c821f76d02
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8úÅ‡å1J$d51b805f-7539-446e-bde7-982fc8ac4d9b
+…
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8úÅ‡å1J$69502525-fc93-42f0-946a-82ed6ce30a7d
+…
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8úÅ‡å1J$78109c50-a965-47dc-9aa1-8b47365be22c
+…
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ8úÅ‡å1J$b69aa4d2-c009-4262-96c1-145113a251bd
+m	java:S106p"+Replace this use of System.out by a logger.(ÊËïò8—úÅ‡å1J$ab00d212-eb4e-46f1-b9b1-a816699d796a
+r	java:S106w"+Replace this use of System.out by a logger.(¹¸’Ëüÿÿÿÿ8™úÅ‡å1J$f5cbc58d-3ec1-4345-ae2f-b09302abf1d4
+n	java:S106‚"+Replace this use of System.out by a logger.(ÊËïò8›úÅ‡å1J$1c6a748a-700d-46aa-9173-c25c04223fe3
+s	java:S106‰"+Replace this use of System.out by a logger.(¹¸’Ëüÿÿÿÿ8ÄúÅ‡å1J$a3278b9c-ceb3-4e7c-a008-9c6ea0032538
+n	java:S106Œ"+Replace this use of System.out by a logger.(ÊËïò8ÄúÅ‡å1J$de0a66b3-a1e2-492d-9a26-429e6216810f
+s	java:S106“"+Replace this use of System.out by a logger.(¹¸’Ëüÿÿÿÿ8ÅúÅ‡å1J$8020b32e-bfc0-483e-976d-9e293fd0d428
+l
+java:S1481À"(Remove this unused "sql" local variable.(÷´‹ã8ıŒÆ‡å1J$ffbb55f2-31bd-47a9-b025-f3ac0a9a75cc

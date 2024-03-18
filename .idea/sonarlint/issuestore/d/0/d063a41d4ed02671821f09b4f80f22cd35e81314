@@ -1,0 +1,13 @@
+
+²
+java:S1488"pImmediately return this expression instead of assigning it to the temporary variable "countAccumulationUsedDTO".(—ð>8»œÙÞã1J$b4487641-502e-493a-81e8-634050d7ded3
+»
+java:S1488,"sImmediately return this expression instead of assigning it to the temporary variable "quantityAccumulationFormDTO".(¤‹‹çûÿÿÿÿ8—ÓóÞã1J$2b7ae6c1-6d1a-4ae3-9f14-3e113ca1b4f0
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8àÿ×Þã1J$057a762c-2d6e-4c4d-8f3d-6f08b1886e73
+•
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(—ð>8æŒÖÞã1J$b4d010d1-b73e-46a2-acca-8ea77216f7e6
+k
+java:S1128"IRemove this unused import 'app.DTO.response.StoreAccumulationUsedResDTO'.(ûŠÊÑüÿÿÿÿ8”¢ë…å1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8”¢ë…å1

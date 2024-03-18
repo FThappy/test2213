@@ -1,0 +1,31 @@
+
+–
+java:S2095Ğ"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ú€ËŸıÿÿÿÿ8ïñ‚…å1J$f5690c8d-f939-4b2c-a3cf-7ef3655ff228
+‰
+java:S1075 "ARefactor your code to get this URI from a customizable parameter.(ïÍ¨Îûÿÿÿÿ8Œ‹”†å1J$5dcbb4fc-c13e-45a4-adba-72660464c689
+
+java:S6201-"HReplace this instanceof check and cast with 'instanceof Integer integer'(ÕÊÙËüÿÿÿÿ8ß¦£ƒå1J$f8513c48-a8d2-4d5b-8a49-755e60ea5f70
+
+java:S62010"FReplace this instanceof check and cast with 'instanceof Double double'(§ŸŸØşÿÿÿÿ8à¦£ƒå1J$1623300a-03d8-4e57-a365-049158fb08d3
+‹
+java:S62013"HReplace this instanceof check and cast with 'instanceof Boolean boolean'(€ÙóŸ8à¦£ƒå1J$52a9e4ad-1cc4-4a9d-a7ff-341af7ce6221
+Š
+java:S62016"BReplace this instanceof check and cast with 'instanceof Long long'(„¡Ğşÿÿÿÿ8à¦£ƒå1J$3e281af9-88b6-410b-9d5b-3da99005c3f9
+
+java:S62019"HReplace this instanceof check and cast with 'instanceof String strValue'(èåúşÿÿÿÿ8à¦£ƒå1J$84c4804d-4435-4b95-9224-5d6ad6fcc9a3
+
+java:S6201A"LReplace this instanceof check and cast with 'instanceof Timestamp timestamp'(¦´æı8á¦£ƒå1J$16d358df-dba7-4bb3-a447-82b1db0cf65b
+m
+java:S1905F"*Remove this unnecessary cast to "Integer".(ı¨îÀ8ã¦£ƒå1J$a4f9843a-310a-48a5-8ff4-54011978f753
+o
+java:S3011s",This accessibility update should be removed.(˜ÂÓ˜8è¦£ƒå1J$bc2884f0-47ca-4825-9593-8fee9eee429c
+p
+java:S3011£",This accessibility update should be removed.(˜ÂÓ˜8ê¦£ƒå1J$96245719-192b-41f0-8832-6ab9bfc09e06
+
+java:S1854¹"<Remove this useless assignment to local variable "rowCount".(ß¦€n8´ù‡…å1J$5e798777-1e48-4aac-ae1a-d7b45a961728
+p
+java:S1481¹"-Remove this unused "rowCount" local variable.(ß¦€n8í¦£ƒå1J$e54da4a5-db0f-4c6a-a56c-1ec5908df728
+‘
+java:S1128"IRemove this unused import 'app.DTO.response.StoreAccumulationUsedResDTO'.(ûŠÊÑüÿÿÿÿ8ÊÉ‚…å1J$75db3181-d5e5-4a22-9874-623bfd5f4a5e
+’
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8Şï’†å1J$5ab391d6-f299-42de-aae3-8be44783bb35

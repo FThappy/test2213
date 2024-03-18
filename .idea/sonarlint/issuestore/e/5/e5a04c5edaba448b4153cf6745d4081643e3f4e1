@@ -1,0 +1,36 @@
+
+	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8¢«‡å1J$e9aa07d8-4bc2-43d1-8903-ea0760033e8b
+	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8£«‡å1J$e4a83698-e96c-4da5-933c-01c98dafce58
+	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8£«‡å1J$4ac656af-5f1a-4f8e-945f-15a02f2c7575
+	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8£«‡å1J$d69718d6-8b5c-45b9-a6f8-02178c3c9de1
+	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8£«‡å1J$a3eaeb8e-a6b5-4215-8db8-a9cc38d4368e
+	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8£«‡å1J$b01ea1da-eb8a-47f0-9905-05b55444c330
+	java:S112r"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8£«‡å1J$4cf2fac0-659b-4c78-a093-e852f8f33782
+›
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ¦Ğb8¤«‡å1J$f09e3eb0-ab82-4928-a45f-8f55932b1382
+œ
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤­ã¾8¤«‡å1J$6640a318-2ea6-4f6f-8f2e-fb2643be426b
+›
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(›Ì–+8¤«‡å1J$c7fc174c-9ee0-4fa6-90a3-b90c6362b503
+œ
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(®öè8¤«‡å1J$42070b14-866a-4089-ba95-dc1291bc7aca
+œ
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëñù8¤«‡å1J$ff9c2a53-7c2e-42c8-b080-c90699f59a63
+œ
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄéŒ®8¤«‡å1J$6ae963c3-45cb-4dea-87e4-8d14a022d83a
+œ
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğëÀ£8¤«‡å1J$5d679be9-028e-4a73-8ad7-8eea2af9e8a1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÓÌ´8¥«‡å1J$44759d74-7d56-40af-9e7a-f2e7f77a70fe
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8®«‡å1J$b116eced-14e6-41f8-a209-9851381cfc3c
+…
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8®«‡å1J$6698a31d-ac32-4620-8a42-cfb55a56b882
+…
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8®«‡å1J$042d2370-7ce6-4b5d-b560-734c258cc402
+…
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ8®«‡å1J$1fd01e76-17a0-4273-8d89-9896c9026c8d
+š
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ö›†ıÿÿÿÿ8±«‡å1J$2f6637cd-41e1-40e0-b9cb-c1779e30eb79
+m	java:S106/"+Replace this use of System.out by a logger.(ä¾©–8²«‡å1J$f18ecc65-3505-45c6-a341-e6543ebe5d1e
+‹
+java:S1128"CRemove this unused import 'java.util.stream.Collectors.groupingBy'.(Ïú¯üùÿÿÿÿ8¹«‡å1J$f43514e0-6602-4be8-a62f-35a9853f8a63
