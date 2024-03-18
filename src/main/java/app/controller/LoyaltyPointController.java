@@ -1,6 +1,6 @@
 package app.controller;
 
-import app.service.accumulatepointsService.AccumulatePoints;
+import app.service.accumulatepointsService.LoyaltyPointService;
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -12,11 +12,11 @@ import java.io.IOException;
 
 @RestController
 @CrossOrigin(origins = {"http://localhost:3000", "http://localhost:5173"})
-@RequestMapping("/api/v1/accumulate-point")
-public class AccumulatePointsController {
+@RequestMapping("/api/v1/report/accumulate-point")
+public class LoyaltyPointController {
 
     @Autowired
-    private AccumulatePoints accumulatePoints;
+    private LoyaltyPointService loyaltyPointService;
     @GetMapping("/export-to-excel")
     //test
     public void exportToExcel(HttpServletResponse response) throws IOException {
@@ -24,14 +24,14 @@ public class AccumulatePointsController {
         String headerKey = "Content-Disposition";
         String headerValue = "attachment; filename=ListStoreAccumulatePoints.xlsx";
         response.setHeader(headerKey, headerValue);
-        accumulatePoints.exportListStoreAccmulation(response);
+        loyaltyPointService.exportListStoreAccmulation(response);
     }
     @GetMapping("/export-point-used-to-excel")
     public void exportPointUsedToExcel(HttpServletResponse response) throws IOException {
         response.setContentType("application/octet-stream");
         String headerKey = "Content-Disposition";
-        String headerValue = "attachment; filename=ListStoreAccumulatePoints.xlsx";
+        String headerValue = "attachment; filename=ListStoreAccumulatePointsUsed.xlsx";
         response.setHeader(headerKey, headerValue);
-        accumulatePoints.exportListStoreAccmulationUsed(response);
+        loyaltyPointService.exportListStoreAccmulationUsed(response);
     }
 }

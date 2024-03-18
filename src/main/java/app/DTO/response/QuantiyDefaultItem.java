@@ -7,7 +7,7 @@ import lombok.*;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class CountDefaultItem {
+public class QuantiyDefaultItem {
     private int storeId;
     private Number number;
 }

@@ -7,7 +7,7 @@ import lombok.*;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class CountAccmulationUsedDTO {
+public class QuantityAccmulationUsedDTO {
     private Integer storeId;
     private Integer quantityForm;
 }

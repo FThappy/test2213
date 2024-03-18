@@ -7,7 +7,7 @@ import lombok.*;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class ExportStoreAccumulationUsedResDTO {
+public class StoreAccumulationUsedResDTO {
     private Integer storeId;
     private String name;
     private String address;
@@ -19,7 +19,7 @@ public class ExportStoreAccumulationUsedResDTO {
     private Integer merchantId;
     private Integer quantityForm;
 
-    public ExportStoreAccumulationUsedResDTO(StoreAccumulateDTO s , CountAccmulationUsedDTO c){
+    public StoreAccumulationUsedResDTO(StoreAccumulateDTO s , QuantityAccmulationUsedDTO c){
         this.storeId = s.getStoreId();
         this.name = s.getName();
         this.address = s.getAddress();

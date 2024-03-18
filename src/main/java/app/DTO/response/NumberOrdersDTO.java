@@ -11,7 +11,7 @@ import java.text.DecimalFormat;
 @Getter
 @Setter
 @AllArgsConstructor
-public class ExportNumberOrdersDTO {
+public class NumberOrdersDTO {
     private Integer storeId;
     private String name;
     private String address;
@@ -19,13 +19,13 @@ public class ExportNumberOrdersDTO {
     private Integer quantityOrder;
     private String totalPrice;
 
-    public ExportNumberOrdersDTO(StoreOrdersDTO storeOrdersDTO, QuantityOrdersDTO quantityOrdersDTO){
+    public NumberOrdersDTO(StoreOrdersDTO storeOrdersDTO, QuantityOrdersDTO quantityOrdersDTO){
         this.storeId = storeOrdersDTO.getStoreId();
         this.name = storeOrdersDTO.getName();
         this.address = storeOrdersDTO.getAddress();
         this.phone = storeOrdersDTO.getPhone();
-        this.quantityOrder = quantityOrdersDTO.getQuantityOrder();
+        this.quantityOrder = quantityOrdersDTO.getNumber();
         DecimalFormat vndFormat = new DecimalFormat("#,###.## VND");
-        this.totalPrice = vndFormat.format(quantityOrdersDTO.getTotalPrice());
+        this.totalPrice = vndFormat.format(quantityOrdersDTO.getTotalprice());
     }
 }

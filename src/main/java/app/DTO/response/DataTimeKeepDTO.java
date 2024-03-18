@@ -9,23 +9,30 @@ import lombok.Setter;
 @Getter
 @Setter
 @AllArgsConstructor
-public class ExportDataTimeKeepDTO {
+public class DataTimeKeepDTO {
     private Integer storeId;
     private String name;
     private String address;
     private Integer merchantId;
     private Integer storePackageId;
-    private Number countSuccessTimeKeep;
-    private Number countNotDetermined;
-    private Number countOutRange;
-    private Number countCases;
-    private Number countMaxEmployee;
-    private Number countMinEmployee;
-    public ExportDataTimeKeepDTO(StoreTimeKeepDTO storeTimeKeepDTO){
+    private Number numberSuccessTimeKeep;
+    private Number numberNotDetermined;
+    private Number numberOutRange;
+    private Number numberCases;
+    private Number numberMaxEmployee;
+    private Number numberMinEmployee;
+    public DataTimeKeepDTO(StoreTimeKeepDTO storeTimeKeepDTO, Number numberSuccessTimeKeep, Number numberNotDetermined,
+                           Number numberOutRange, Number numberCases, Number numberMaxEmployee, Number numberMinEmployee){
         this.storeId = storeTimeKeepDTO.getStoreId();
         this.name = storeTimeKeepDTO.getName();
         this.address = storeTimeKeepDTO.getAddress();
         this.merchantId = storeTimeKeepDTO.getMerchantId();
         this.storePackageId = storeTimeKeepDTO.getStorePackageId();
+        this.numberSuccessTimeKeep = numberSuccessTimeKeep;
+        this.numberNotDetermined = numberNotDetermined;
+        this.numberOutRange = numberOutRange;
+        this.numberMaxEmployee =numberMaxEmployee;
+        this.numberCases = numberCases;
+        this.numberMinEmployee = numberMinEmployee;
     }
 }

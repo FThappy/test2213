@@ -9,7 +9,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @AllArgsConstructor
-public class ExportDataDefaultItemDTO {
+public class DataDefaultItemDTO {
     private Integer storeId;
     private String name;
     private String address;
@@ -17,12 +17,12 @@ public class ExportDataDefaultItemDTO {
     private Integer storePackageId;
     private Number number;
 
-    public ExportDataDefaultItemDTO(StoreIdDTO storeIdDTO, CountDefaultItem countDefaultItem){
+    public DataDefaultItemDTO(StoreIdDTO storeIdDTO, QuantiyDefaultItem quantiyDefaultItem){
         this.storeId = storeIdDTO.getStoreId();
         this.name = storeIdDTO.getName();
         this.address = storeIdDTO.getAddress();
         this.phone = storeIdDTO.getPhone();
         this.storePackageId = storeIdDTO.getStorePackageId();
-        this.number = countDefaultItem.getNumber();
+        this.number = quantiyDefaultItem.getNumber();
     }
 }

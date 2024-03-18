@@ -1,4 +1,4 @@
-package app;
+package app.config;
 
 
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -90,5 +90,14 @@ public class DataSourcesConfiguration {
     }
 
 
+    @Bean(name = "mariadbOrders2")
+    @ConfigurationProperties(prefix = "spring.datasource2.orders")
+    public DataSource dataSource8() {
+        return DataSourceBuilder.create().build();
+    }
 
+    @Bean(name = "mariadbOrders2JdbcTemplate")
+    public JdbcTemplate jdbcTemplate8(@Qualifier("mariadbOrders2") DataSource dataSource) {
+        return new JdbcTemplate(dataSource);
+    }
 }

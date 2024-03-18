@@ -7,7 +7,7 @@ import lombok.*;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class CountOrderDTO {
-    private int storeId;
-    private Number quantityOrder;
+public class QuantityOrderDTO {
+    private int storeid;
+    private Number number;
 }

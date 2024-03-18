@@ -1,15 +1,13 @@
 package app.DTO.response;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.Getter;
-import lombok.Setter;
+import lombok.*;
 
 @Data
 @Getter
 @Setter
 @AllArgsConstructor
-public class CountActiveStoreDTO {
+@NoArgsConstructor
+public class QuantityActiveStoreDTO {
     private Integer storeId;
     private Number number;
 }

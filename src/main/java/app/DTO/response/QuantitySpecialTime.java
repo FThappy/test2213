@@ -7,7 +7,7 @@ import lombok.*;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class CountSpecialTime {
+public class QuantitySpecialTime {
     private int storeId;
     private Number number;
 }

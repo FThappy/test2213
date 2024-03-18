@@ -7,13 +7,9 @@ import lombok.*;
 @Setter
 @AllArgsConstructor
 
-public class MeInvoiceDTO {
+public class InvoiceDTO {
     private Integer storeId;
     private Number quantityUnrelease;
     private Number quantityRelease;
     private Number quantityCQT;
-
-    public MeInvoiceDTO(Integer storeId){
-        this.storeId = storeId;
-    }
 }

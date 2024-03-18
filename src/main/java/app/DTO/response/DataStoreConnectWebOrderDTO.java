@@ -9,7 +9,7 @@ import java.sql.Timestamp;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class ExportDataStoreConnectWebOrderDTO {
+public class DataStoreConnectWebOrderDTO {
 
     private int storeId;
     private String name;

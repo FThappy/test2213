@@ -9,7 +9,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @AllArgsConstructor
-public class ExportDataSpectialTimeDTO {
+public class DataSpectialTimeDTO {
     private Integer storeId;
     private String name;
     private String address;
@@ -17,12 +17,12 @@ public class ExportDataSpectialTimeDTO {
     private Integer storePackageId;
     private Number number;
 
-    public ExportDataSpectialTimeDTO(StoreIdDTO storeIdDTO, CountSpecialTime countSpecialTime){
+    public DataSpectialTimeDTO(StoreIdDTO storeIdDTO, QuantitySpecialTime quantitySpecialTime){
         this.storeId = storeIdDTO.getStoreId();
         this.name = storeIdDTO.getName();
         this.address = storeIdDTO.getAddress();
         this.phone = storeIdDTO.getPhone();
         this.storePackageId = storeIdDTO.getStorePackageId();
-        this.number = countSpecialTime.getNumber();
+        this.number = quantitySpecialTime.getNumber();
     }
 }

@@ -9,7 +9,7 @@ import java.sql.Timestamp;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class ExportDataStoreConnectWebOrderResDTO {
+public class DataStoreConnectWebOrderResDTO {
     private int storeId;
     private String name;
     private String phone;
@@ -23,7 +23,7 @@ public class ExportDataStoreConnectWebOrderResDTO {
     private Number quantityOrder;
 
 
-    public ExportDataStoreConnectWebOrderResDTO ( ExportDataStoreConnectWebOrderDTO e , CountOrderDTO c){
+    public DataStoreConnectWebOrderResDTO(DataStoreConnectWebOrderDTO e , QuantityOrderDTO c){
         this.storeId = e.getStoreId();
         this.name = e.getName();
         this.phone = e.getPhone();
@@ -34,7 +34,7 @@ public class ExportDataStoreConnectWebOrderResDTO {
         this.alias = e.getAlias();
         this.createdOn = e.getCreatedOn();
         this.storePackageId = e.getStorePackageId();
-        this.quantityOrder = c.getQuantityOrder();
+        this.quantityOrder = c.getNumber();
 
     }
 }

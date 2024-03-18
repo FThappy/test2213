@@ -7,7 +7,7 @@ import lombok.*;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class CountInvoiceDTO {
+public class QuantityInvoiceDTO {
     private Integer storeId;
     private Number quantityInvoice;
 }

@@ -1,17 +1,20 @@
 package app.utils;
 
 
-import app.service.accumulatepointsService.LoyaltyPointService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.jdbc.core.BeanPropertyRowMapper;
+import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;
 
+import java.lang.reflect.Field;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.TimeUnit;
 
 @Component
-public class WaitFinishThread {
+public class ThreadUtils {
 
-    public void waitForFinish(ExecutorService executorService){
+    public void waitForFinish(ExecutorService executorService) {
         executorService.shutdown();
         try {
             executorService.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
@@ -19,4 +22,7 @@ public class WaitFinishThread {
             e.printStackTrace();
         }
     }
+
+
+
 }
